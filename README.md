@@ -2,4 +2,4 @@
 -HTML 5.
 -CSS3.
 
-![Alt text](http://full/path/to/img.jpg "Optional title")
+![Alt text](https://github.com/walejandromt/webStyle2/blob/master/img.png "Review")
