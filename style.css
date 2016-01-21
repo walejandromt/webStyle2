@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* Hoja cascada de Mr. Tec. */
+div nav
+{
+	 height:40px;
+	 background-color:#039614;
+	 margin-top:0px;
+	 margin-left:0px;
+  	 margin-right:0px;
+ 	 margin-bottom:0px;
+}
+
+header hgroup
+{
+	font-family: 'Russo One', sans-serif;
+	text-shadow:1px 1px 3px rgba(0,0,0,2);
+	border-radius:5px;	
+}
+
+section
+{	
+	color:#E2E2E2;
+	width:800px;
+	opacity:0.8;
+	border-style:solid;
+	border-color:#039614 #19908a;
+	padding:18px;
+	border-radius:10px;
+	box-shadow:1px 1px 5px rgba(0,0,0,0.5);
+	margin:0 auto;
+	text-align:center;
+	border-bottom-right-radius:70px 70px;
+	border-top-left-radius: 70px 70px
+}
+
+article
+{
+	background:#E8E9E8;
+	border-radius:10px;
+	border-top-left-radius:50px 100px;
+	padding:14px;
+	margin-bottom:4px;
+}
+p
+{
+	color:#033;
+	font-size:15px;
+}
+
+p:first-letter
+{
+	font-size:200%;
+	color:#039614;
+}
+
+article:hover
+{
+	background:#E1E2E1;
+	border-radius:10px;
+	border-top-left-radius:50px 100px;
+}
+
+
+nav ul li
+{
+	display:inline-block;
+	color:#039614;
+	cursor: pointer;
+	transition:all 0.5s linear;
+	-webkit-transition:all 0.5s linear;
+	-moz-transition:all 0.5s linear;
+	-o-transition:all 0.5s linear;
+	background-color:#7ED388;
+}
+
+nav ul li:hover
+{
+	background-color:#039614;
+}
+
+
+a
+{
+	color:#fff;
+	font-weight:bold;
+}
+
+nav ul li a
+{
+	text-decoration:none;
+}
+
+body
+{
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top,  #ffffff 0%, #f1f1f1 36%, #c6c6c6 85%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(36%,#f1f1f1), color-stop(85%,#c6c6c6)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ffffff 0%,#f1f1f1 36%,#c6c6c6 85%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ffffff 0%,#f1f1f1 36%,#c6c6c6 85%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ffffff 0%,#f1f1f1 36%,#c6c6c6 85%); /* IE10+ */
+background: linear-gradient(to bottom,  #ffffff 0%,#f1f1f1 36%,#c6c6c6 85%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#c6c6c6',GradientType=0 ); /* IE6-9 */
+}
+
+article hgroup h1
+{
+	font-family: 'Russo One', sans-serif;
+	color:#039614;
+	font-size:22px;
+	text-align: left;
+}
+
+footer
+{color:#FFF;
+margin-left:90%;
+margin-right:1%;
+margin-top:10%;
+font-size:15px;
+}
