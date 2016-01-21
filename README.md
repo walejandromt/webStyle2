@@ -1,5 +1,5 @@
-# Curso de HTML: maquetaciÛn sem·ntica de una p·gina en HTML 5
--HTML 5 
--CSS3 
--JavaScript.
+# Maquetaci√≥n sem√°ntica de una p√°gina en HTML 5 y CSS3
+-HTML 5.
+-CSS3.
+
 ![Alt text](http://full/path/to/img.jpg "Optional title")
